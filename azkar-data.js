@@ -1,4 +1,4 @@
-// Полная коллекция азкаров с сайта azkar.ru
+
 const azkarData = {
     morning: [
         {
