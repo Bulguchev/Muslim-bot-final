@@ -1,4 +1,3 @@
-
 const azkarData = {
     morning: [
         {
